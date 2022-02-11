@@ -8,7 +8,7 @@ import utils
 DEBUG = False
 HEADER_SIZE = 16 * utils.KB # Header size is always 16KB
 
-print ("mstar-bin-tool unpack.py v.1.2_sha-man")
+print ("mstar-bin-tool unpack.py tudouli ROM tools")
 
 # Vars
 headerScript = ""
